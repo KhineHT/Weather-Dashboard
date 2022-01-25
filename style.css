@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.li:hover {
+  background-color: rgb(118, 224, 118);
+  text-decoration: underline;
+}
